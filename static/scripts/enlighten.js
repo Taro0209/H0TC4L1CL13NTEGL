@@ -1447,6 +1447,13 @@ document.addEventListener('DOMContentLoaded', () => {
         image: "/images/icons/now-gg.png",
         categories: ['all', 'emu']
       },
+{
+        name: "GhostoPhobia",
+        link: "https://coseph-games.itch.io/ghostophobia",
+        image: "/images/icons/ghostoimage.png",
+        categories: ['all', 'emu']
+      },
+    
   ];
   
   function saveToLocal(path) {
